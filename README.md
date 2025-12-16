@@ -40,7 +40,7 @@ sudan-conflict-economy-2000-2024/
 │   └─ 01_sudan_conflict_economy.ipynb
 │
 ├─ reports/
-│   └─ sudan_conflict_economy_report.md  (أو .pdf لو صدّرته)
+│   └─ sudan_conflict_economy_report.md 
 │
 ├─ README.md
-└─ requirements.txt  (لو حبيت تكتب قائمة الحزم)
+└─ requirements.txt  
